@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63f1f23061eb94677b4c099331c06f0b, type: 3}
+  m_Name: pushNotificationsSettings
+  m_EditorClassIdentifier: 
+  firebaseWebApiKey: 'AIzaSyB8g56ZDVIgdX5hxl7T3sXjs_q50Tkg6xk '
+  firebaseProjectNumber: 1027697983450
+  firebaseAppID: 1:1027697983450:web:67a4f4a483b5ad751ccae3
+  firebaseProjectID: spendbuddy-3e5e8
